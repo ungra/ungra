@@ -47,6 +47,11 @@
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components" height="30px">
 </p>
 
+<br>
+<p align="right">
+  <h5 align="right">🎮 To have fun and spend time...</h5>
+</p>
+
 
 <!--
 <p align='right'>
